@@ -153,10 +153,10 @@ Almost all other correlations with next-semester dropout are weak. That is reali
 
 Detailed pages in this site show the raw statistics and full model output.
 
-- [Descriptive Statistics](./retention_desc_stats.html)  
-- [Correlation Matrix](./retention_corr_matrix.html)  
-- [Chi-square: Financial Aid × Dropout](./retention_chi_square_fin_aid_vs_dropout.html)  
-- [Logistic Regression: Next-semester Dropout](./retention_logit_dropout_model.html)
+- **Descriptive Statistics** [View page](./retention_desc_stats.html)  
+- **Correlation Matrix** [View page](./retention_corr_matrix.html)  
+- **Chi-square: Financial Aid × Dropout** [View page](./retention_chi_square_fin_aid_vs_dropout.html)  
+- **Logistic Regression: Next-semester Dropout** [View page](./retention_logit_dropout_model.html)
 
 These pages pair numeric output with short, plain-language interpretations that describe what stands out, what it means, and how a leader could act on it.
 
