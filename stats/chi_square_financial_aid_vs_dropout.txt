@@ -1,0 +1,19 @@
+Contingency table:
+
+next_semester_dropout  False  True 
+financial_aid_status               
+False                    899    163
+True                     874    198
+
+Expected counts:
+
+next_semester_dropout       False       True 
+financial_aid_status                         
+False                  882.345829  179.654171
+True                   890.654171  181.345829
+
+Chi-square statistic: 3.4803
+
+Degrees of freedom: 1
+
+P-value: 0.062103
