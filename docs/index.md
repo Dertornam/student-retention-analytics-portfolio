@@ -141,7 +141,7 @@ This trajectory suggests that many students who leave do not show a simple patte
 
 ### Visual 11 — Correlation Heatmap
 
-![Correlation Matrix](../figures/11_correlation_heatmap_red.png)
+![Correlation Matrix](../figures/11_correlation_heatmap.png)
 
 The red heatmap summarizes correlations among key numeric variables. Current and historical GPA correlate very strongly with each other. Dropout risk and next-semester dropout move together, as expected, and both align with dropout duration.
 
