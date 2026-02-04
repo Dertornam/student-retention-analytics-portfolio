@@ -1,4 +1,11 @@
 title: Student Retention Analytics Portfolio
 description: Anonymized higher-ed retention case study — multimodal dataset, dashboards, and statistical modeling for decision-making.
 theme: jekyll-theme-cayman
+
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+url: "https://dertornam.github.io"
+baseurl: "/student-retention-analytics-portfolio"
